@@ -14,5 +14,5 @@ ESTRUCTURA DEL PROYECTO
 -script.js
 
 COMO CLONAR:
-$ git clone 
+$ git clone https://github.com/Benjaj14/ecommerce-certamen.git
 
